@@ -1,7 +1,7 @@
 # Semaforo_Practica1
-======================
+
 # Practica1
-=============
+
 
 Descripción
 -------------
